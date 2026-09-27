@@ -1,4 +1,4 @@
 {
-  "free": ["rainingwithyou"],
-  "dev": ["hooked"]
+  "free": ["rainingwithyou", "rainhook"],
+  "dev": ["devhook"]
 }
